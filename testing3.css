@@ -10,7 +10,7 @@ body {
 
 .container {
 	margin: 0 auto;
-	max-width: 940px; 
+	max-width: 930px; 
 	padding: 0 10px; 
 }
 
@@ -81,7 +81,6 @@ display: inline;
 .btn:hover {
 	background: #117bff;
 	cursor: pointer; 
-	transition: background .5s;  
 }
 
 
